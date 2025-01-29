@@ -25,7 +25,7 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia e resolução de proble
 ---
 
 ## 📫 Onde me encontrar
-- **LinkedIn:** [linkedin.com/in/mateus](#)
+- **LinkedIn:** [www.linkedin.com/in/mateus-cerqueira-242097219](#)
 - **E-mail:** [mateus.cerq7@outlook.com](#)
 - **Portfólio:** *(Em breve!)*
 
