@@ -9,7 +9,7 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia e resolução de proble
 ## 🚀 Tecnologias e Ferramentas
 
 ### 🖥 Backend
-- Kotlin | Java | Python
+- Kotlin | Java | NodeJS
 - Spring Boot | FastAPI
 - Banco de Dados SQL e NoSQL (PostgreSQL, MySQL, MongoDB)
 
