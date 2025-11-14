@@ -2,21 +2,20 @@
 
 ### 💻 Desenvolvedor Fullstack | Engenharia da Computação
 
-Sou um desenvolvedor fullstack apaixonado por tecnologia e resolução de problemas. Atualmente, curso Engenharia da Computação e atuo como freelancer e estagiário, criando soluções web dinâmicas e eficientes.
+Desenvolvedor Full Stack com experiência no desenvolvimento de sistemas escaláveis e otimizados, sempre focado em qualidade de software e experiência do usuário. Possui alta capacidade de aprendizado e comunicação, aliando vivência acadêmica e profissional em programação a trabalhos colaborativos com equipes interdisciplinares.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 ### 🖥 Backend
-- Kotlin | Java | NodeJS
-- Spring Boot | FastAPI
+- C#| NodeJS
 - Banco de Dados SQL e NoSQL (PostgreSQL, MySQL, MongoDB)
 
 ### 🌐 Frontend
 - React.js | Next.js
 - HTML | CSS | JavaScript | TypeScript
-- TailwindCSS | Bootstrap
+- TailwindCSS 
 
 ### 📦 Outros
 - Git & GitHub
@@ -25,7 +24,7 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia e resolução de proble
 ---
 
 ## 📫 Onde me encontrar
-- **LinkedIn:** [www.linkedin.com/in/mateus-cerqueira-242097219](#)
+- **LinkedIn:** www.linkedin.com/in/mateuscerqueira-dev(#)
 - **E-mail:** [mateus.cerq7@outlook.com](#)
 - **Portfólio:** *(Em breve!)*
 
