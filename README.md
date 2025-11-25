@@ -15,8 +15,8 @@ Tenho sólida experiência no desenvolvimento de APIs RESTful e interfaces moder
 ## 🛠️ Stack Tecnológica
 
 ### 🖥️ Backend & Arquitetura
-* **Core:** Node.js, TypeScript, C#
-* **Frameworks:** Express.js, NestJS (ou Next.js API Routes)
+* **Core:** Node.js, TypeScript, C#, Java, Python
+* **Frameworks:** Express.js, NextJS, Spring, .NET
 * **Dados:** PostgreSQL, MongoDB, MySQL, PrismaORM, DrizzleORM
 * **Conceitos:** RESTful APIs, Autenticação (JWT/OAuth), Microservices
 
@@ -28,7 +28,7 @@ Tenho sólida experiência no desenvolvimento de APIs RESTful e interfaces moder
 ### ⚙️ DevOps, Cloud & QA
 * **Infra:** AWS, Docker
 * **CI/CD:** Git, GitHub Actions
-* **Qualidade:** Testes Automatizados (Jest), Code Review
+* **Qualidade:** Testes Automatizados, Code Review
 
 ---
 
