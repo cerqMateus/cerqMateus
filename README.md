@@ -1,6 +1,6 @@
 # Mateus Cerqueira
 ### Software Engineer | Full Stack Developer
-*Especialista em ecossistema JavaScript/TypeScript, Arquitetura de Software e Soluções em Nuvem.*
+*Especialista em ecossistema JavaScript/TypeScript, Arquitetura de Software e Soluções Web.*
 
 ---
 
