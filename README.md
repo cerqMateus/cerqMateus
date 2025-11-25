@@ -1,32 +1,46 @@
-# 👋 Olá! Eu sou o Mateus
-
-### 💻 Desenvolvedor Fullstack | Engenharia da Computação
-
-Desenvolvedor Full Stack com experiência no desenvolvimento de sistemas escaláveis e otimizados, sempre focado em qualidade de software e experiência do usuário. Possui alta capacidade de aprendizado e comunicação, aliando vivência acadêmica e profissional em programação a trabalhos colaborativos com equipes interdisciplinares.
+# Mateus Cerqueira
+### Software Engineer | Full Stack Developer
+*Especialista em ecossistema JavaScript/TypeScript, Arquitetura de Software e Soluções em Nuvem.*
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 👨‍💻 Sobre Mim
 
-### 🖥 Backend
-- C#| NodeJS
-- Banco de Dados SQL e NoSQL (PostgreSQL, MySQL, MongoDB)
+Desenvolvedor Full Stack focado na construção de aplicações web escaláveis, seguras e de alta performance. Minha atuação vai além do código: busco resolver problemas complexos de negócio através de arquiteturas robustas e boas práticas de engenharia de software (Clean Code, SOLID).
 
-### 🌐 Frontend
-- React.js | Next.js
-- HTML | CSS | JavaScript | TypeScript
-- TailwindCSS 
+Tenho sólida experiência no desenvolvimento de APIs RESTful e interfaces modernas, integrando bancos de dados relacionais e não-relacionais em ambientes cloud. Atualmente, aprofundo meus conhecimentos em **C#** e **Machine Learning**, unindo inovação tecnológica à entrega de valor real.
 
-### 📦 Outros
-- Git & GitHub
-- Docker
-- Machine Learning
 ---
 
-## 📫 Onde me encontrar
-- **LinkedIn:** www.linkedin.com/in/mateuscerqueira-dev(#)
-- **E-mail:** [mateus.cerq7@outlook.com](#)
-- **Portfólio:** *(Em breve!)*
+## 🛠️ Stack Tecnológica
 
-Seja bem-vindo ao meu GitHub! Fique à vontade para explorar meus projetos e trocar ideias. 😃
+### 🖥️ Backend & Arquitetura
+* **Core:** Node.js, TypeScript, C#
+* **Frameworks:** Express.js, NestJS (ou Next.js API Routes)
+* **Dados:** PostgreSQL, MongoDB, MySQL, PrismaORM, DrizzleORM
+* **Conceitos:** RESTful APIs, Autenticação (JWT/OAuth), Microservices
 
+### 🌐 Frontend & UI/UX
+* **Core:** React.js, Next.js, Angular
+* **Estilização:** TailwindCSS, Design Responsivo, Figma (Design System)
+* **Performance:** SEO, Server-Side Rendering (SSR)
+
+### ⚙️ DevOps, Cloud & QA
+* **Infra:** AWS, Docker
+* **CI/CD:** Git, GitHub Actions
+* **Qualidade:** Testes Automatizados (Jest), Code Review
+
+---
+
+## 📫 Contato & Redes
+
+Estou sempre aberto a discutir novas tecnologias e oportunidades de projetos desafiadores.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mateuscerqueira-dev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mateus.cerq7@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
